@@ -4,7 +4,7 @@
 Analysis of customer behavior, retention and lifetime value for an e-commerce company to improve customer retention and maximize revenue
 
 ## Business Questions
-1. **Customer Segmentation:** Who are our most valuable customers
+1. **Customer Segmentation:** Who are our most valuable customers?
 2. **Cohort Analysis:** How do different customer groups generate revenue?
 3. **Retention Analysis:** Which customers haven't purchased recently?
 
